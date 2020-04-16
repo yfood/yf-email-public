@@ -1,2 +1,2 @@
-## YFood Transactional Emails
-Use Files
+## Download the zip archive and use the newest zip
+its easy
